@@ -1,0 +1,182 @@
+.portfolium{
+    position: absolute;
+    left: 300px;
+    top: 0px;
+   
+}
+body{
+     padding: 5px;
+    background-color: aquamarine;
+
+}
+p{
+    font-family: Courier;
+}
+
+
+.html{
+  position: absolute;
+   width: 110px;
+   top: 0px;
+   right: 375px;
+  height: 50px;
+}
+.ya{
+    position: relative;
+    margin-top: 40px;
+    border:3px dashed white ;
+    background-color: black;
+    color: white;
+    top: 40px;
+    transform: scale(0.9);
+    border-radius: 15px;
+}
+.ya:hover{
+    position: relative;
+    margin-top: 40px;
+    transform: scale(1);
+    background-color: white;
+    color: black;
+    top: 40px;
+    border: 6px dotted black;
+    transition: all 0.5s linear;
+ 
+}
+.vstuplenie{
+   opacity: 1;
+  
+
+}
+.vstuplenie:hover{
+   transition: all 0.5s linear;
+   opacity: 0;
+
+
+}
+body{
+    font-family: Courier, monospace;
+}
+.bax{
+    background-color: aqua;
+    margin-top: 70px;
+        display: flex;
+    float: left;
+    padding: 5px;
+}
+
+.ha{
+    position: absolute;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 15px;
+    border: 0.3px solid aliceblue;
+    padding: 3px;
+}
+.ha:hover{
+    background-color: aliceblue;
+    color: blue;
+    transition: all 0.3s linear;
+    padding: 0.1px;
+}
+.info{
+    margin: 15px 10px 15px 15px;
+    width: 250px;
+    opacity: 0.6;
+}
+.info:hover{
+     opacity: 1;
+     border: 0.8px solid red;
+     border-radius: 8px;
+     padding: 7px;
+     transition: all 0.4s linear;
+}
+.im{
+    width: 500px;
+    height: 420px;
+}
+.im img{
+    width: 500px;
+    height: 300px;
+   
+}
+
+.im a{
+    background-color: lightgreen;
+    border-radius: 10px;
+    font-size: 100px;
+     color: aliceblue;
+     padding: 2px;
+}
+.im a:hover{
+    background-color: green;
+    color: purple;
+    padding: 1px;
+    border: 0.5px double purple;
+    transition: all 0.3s linear;
+    opacity: 1;
+}
+.im a:focus{
+    color: gray;
+    background-color: black;
+    border: 6px solid white;
+    opacity: 0.7;
+}
+
+.god{
+    background-color: blue;
+    color: aliceblue;
+    margin-top: 70px;
+    display: flex;
+    float: left;
+    padding: 5px; 
+}
+.gal{
+    background-color: orange;
+    margin-top: 70px;
+    display: flex;
+    float: left;
+    padding: 5px; 
+}
+.art{
+   background-color:blueviolet;
+   color: aliceblue;
+    margin-top: 70px;
+    display: flex;
+    float: left;
+    padding: 5px
+}
+section{
+    border-bottom: 12px dotted aliceblue;
+    border-radius: 10px;
+}
+section:hover{
+       border-bottom: 15px dotted aliceblue;
+       padding: 1px;
+       transition: all 0.3s linear;
+}
+.kosm{
+    background-color:black;
+   color: aliceblue;
+    margin-top: 70px;
+    display: flex;
+    float: left;
+    padding: 5px
+}
+.pap{
+   
+   
+    display: flex;
+    float: left;
+
+}
+.tet{
+    color: aliceblue;
+    font-size: 40px;
+    margin-left: 10px;
+}
+.tet:hover{
+    color: aquamarine;
+    background-color: aliceblue;
+    font-size: 42px;
+    transition: all 0.2s linear;
+}

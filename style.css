@@ -60,7 +60,7 @@ body{
     background-color: aqua;
     margin-top: 70px;
         display: flex;
-    float: left;
+   
     padding: 5px;
 }
 
@@ -80,7 +80,7 @@ body{
 }
 .info{
     margin: 15px 10px 15px 15px;
-    width: 250px;
+
     opacity: 0.6;
 }
 .info:hover{
@@ -127,14 +127,14 @@ body{
     color: aliceblue;
     margin-top: 70px;
     display: flex;
-    float: left;
+
     padding: 5px; 
 }
 .gal{
     background-color: orange;
     margin-top: 70px;
     display: flex;
-    float: left;
+  
     padding: 5px; 
 }
 .art{
@@ -142,7 +142,7 @@ body{
    color: aliceblue;
     margin-top: 70px;
     display: flex;
-    float: left;
+   
     padding: 5px
 }
 section{
@@ -159,7 +159,7 @@ section:hover{
    color: aliceblue;
     margin-top: 70px;
     display: flex;
-    float: left;
+  
     padding: 5px
 }
 .pap{
